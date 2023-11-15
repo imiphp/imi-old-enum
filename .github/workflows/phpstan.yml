@@ -8,7 +8,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        swoole-docker: [4.8-php8.0]
+        swoole-docker: [5.1-php8.1]
     env:
       SWOOLE_DOCKER_VERSION: ${{ matrix.swoole-docker }}
     steps:
