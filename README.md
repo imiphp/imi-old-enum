@@ -1,8 +1,8 @@
-# imi-enum
+# imi-old-enum
 
-[![Latest Version](https://img.shields.io/packagist/v/imiphp/imi-enum.svg)](https://packagist.org/packages/imiphp/imi-enum)
+[![Latest Version](https://img.shields.io/packagist/v/imiphp/imi-old-enum.svg)](https://packagist.org/packages/imiphp/imi-old-enum)
 [![Php Version](https://img.shields.io/badge/php-%3E=8.1-brightgreen.svg)](https://secure.php.net/)
-[![imi License](https://img.shields.io/badge/license-MulanPSL%202.0-brightgreen.svg)](https://github.com/imiphp/imi-enum/blob/master/LICENSE)
+[![imi License](https://img.shields.io/badge/license-MulanPSL%202.0-brightgreen.svg)](https://github.com/imiphp/imi-old-enum/blob/master/LICENSE)
 
 ## 介绍
 
@@ -18,7 +18,7 @@ imi 旧版枚举，仅限 3.0 使用，不推荐，请使用原生枚举！
 
 ## 版权信息
 
-`imi-enum` 遵循 MulanPSL-2.0 开源协议发布，并提供免费使用。
+`imi-old-enum` 遵循 MulanPSL-2.0 开源协议发布，并提供免费使用。
 
 ## 捐赠
 
