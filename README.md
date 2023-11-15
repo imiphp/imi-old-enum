@@ -10,7 +10,7 @@ imi 旧版枚举，仅限 3.0 使用，不推荐，请使用原生枚举！
 
 ## 安装
 
-`composer require imiphp/imi-enum:~3.0.0`
+`composer require imiphp/imi-old-enum:~3.0.0`
 
 ## 免费技术支持
 
